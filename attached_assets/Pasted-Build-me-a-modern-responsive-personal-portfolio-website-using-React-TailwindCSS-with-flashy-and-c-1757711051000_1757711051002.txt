@@ -1,0 +1,59 @@
+Build me a modern, responsive personal portfolio website using React + TailwindCSS with flashy and creative interactions (typing effects, smooth animations, parallax, etc.). The design should support a light/dark mode toggle.
+
+👤 Personal Info:
+- Name: Mridul Goyal
+- Tagline: AI Engineer – slightly personal and engaging
+- About Me: I’m passionate about using technology to solve real-world problems and create meaningful impact. What excites me most is learning continuously, experimenting, and pushing myself to turn ideas into reality. I enjoy building projects that blend creativity with logic, and I aim to grow into a leader who drives innovation in AI and beyond. My long-term goal is to contribute to solutions that make life simpler, smarter, and more connected.
+- Profile photo: Use a placeholder avatar for now.
+
+💼 Skills:
+Languages: C, C++, Python, Django, JavaScript, TypeScript, R, MySQL, Git, NodeJS, ReactJS
+Technologies: Machine Learning, Data Analysis, Web Development, Generative AI, Power BI, Figma, MongoDB
+Coursework: Data Structures, Operating Systems, Database Management, Computer Networks
+
+🧑‍💻 Work Experience:
+1. AI Engineer — Rupee112, Gurugram (Jan 2025 – Present)  
+   - Built AI-powered voice assistant for automating loan workflows, reducing manual effort by 60%.  
+   - Integrated Deepgram (STT) + ElevenLabs (TTS) for real-time bidirectional audio, achieving sub-500ms latency.  
+   - Designed dialogue flow using RAG, RLHF, and LLMs, improving query resolution by 38%.  
+   - Developed FastAPI + WebSocket backend handling 100+ concurrent sessions.  
+   - Built automation testing suite with Pytest & Appium, cutting QA cycles by 70%.
+
+2. SDE Intern — InnoVyt, Noida (Jun 2024 – Jul 2024)  
+   - Boosted email classification accuracy from 86.4% → 96.3% using deep learning neural nets.  
+   - Applied TensorFlow + NLP for optimization, achieving 10% performance gain.
+
+📂 Projects:
+1. GeoFinder (ReactJS, Vite, Carto, A*, Greedy, Dijkstra, MaterialUI)  
+   - Interactive map pathfinding tool with real-time route visualization.  
+   - Optimized algorithms reduced processing time by 40%.  
+   - GitHub: https://github.com/mgoyal07/GeoFinder
+
+2. ResuBI (Python, MySQL, Machine Learning, Generative AI)  
+   - Automated resume processing + interactive HR dashboard.  
+   - Reduced shortlisting time of candidates by 37%.  
+   - GitHub: https://github.com/mgoyal07/ResuBI
+
+(Add project cards with modern design, hover effects, links, and images/icons.)
+
+🎓 Education:
+- BML Munjal University (B.Tech CSE, Aggregate 8.30, Dec 2021 – Present)  
+- Sawan Senior Secondary School (Class XII, 95.6%)  
+- The Sirsa School (Class X, 96.8%)
+
+🏆 Achievements:
+- CodeChef: 3★ (1600+) → https://www.codechef.com/users/mrtechtroid  
+- CodeForces: Pupil (1200+) → https://codeforces.com/profile/itsme_uk  
+- LeetCode: 1750+ rating → https://leetcode.com/u/micrb942/
+
+🌐 Social Links:
+- LinkedIn: https://www.linkedin.com/in/mgoyal07/  
+- GitHub: https://github.com/mgoyal07  
+- Email: mridulgoyal03@gmail.com
+
+📎 Extras:
+- Add a contact form (name, email, message).  
+- Add a "Download Resume" button (PDF).  
+- Use modern, interactive project showcase cards.  
+- Keep code modular so new projects/blogs can be added easily.  
+- Ensure full mobile responsiveness.
